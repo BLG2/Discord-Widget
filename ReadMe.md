@@ -17,7 +17,8 @@ Each user who connects with my bot gets a personal widget, featuring:
 - 🔄 Always live and auto-updated
 - 🔧 And much more!
 
-![User Widget Example](https://atombot.be/widget/user/1/00000000000.png)
+![User Widget Example](https://atombot.be/widget/user/1/921434569197117490.png)
+![User Widget Example](https://atombot.be/widget/user/1/00000000000000000.png)
 
 ---
 
@@ -37,6 +38,7 @@ To enable a server widget:
 - 🖼️ Stylish, auto-updating image – ideal for websites or listings
 
 ![Server Widget Example](https://atombot.be/widget/guild/1/674037240342642718.png)
+![Server Widget Example](https://atombot.be/widget/guild/1/00000000000000000.png)
 
 ---
 
