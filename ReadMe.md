@@ -19,6 +19,9 @@ Each user who connects with my bot gets a personal widget, featuring:
 - 🔄 Always live and auto-updated  
 - 🔧 And much more!
 
+> ℹ️ **Note:** User widgets work only when the bot shares a server with the user.  
+> This can be done by inviting the bot to your own server, or by joining the support & widget server — available via the [website](https://atombot.be/).
+
 > 🔧 User widgets can be managed and customized via the [dashboard](https://atombot.be/)
 
 ![User Widget Example](https://atombot.be/widget/user/1/00000000000000000.png)
